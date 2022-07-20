@@ -20,5 +20,5 @@ I'm open to collaborations, discussions, resources and projects relating to Soft
 -C programming language
 -Python
 
-## Socials and 📫 How to reach me: 
-[LinkedIN](www.linkedin.com/in/iyanuoluwa-akinwale-1169ab1aa) 
+## Socials and 📫 How to reach me:  
+[linkedin]: https://www.linkedin.com/in/iyanuoluwa-akinwale-1169ab1aa
