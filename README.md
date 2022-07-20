@@ -1,16 +1,15 @@
 ### Hi there 👋
+<hr>
+I'm Akinwale Iyanuoluwa. I have keen interest in creation of Software programs and Web development, possessing good interpersonal,
+coding and analytical skills.
 
-<!--
-**TianaAkinwale/TianaAkinwale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently a Software Engineering student at ALX-Holberton School.
 
-Here are some ideas to get you started:
+I'm looking to pursue a successful career in Software Engineering, where my skills would
+be useful in the delivery and creation of software solutions.
+I'm open to collaborations, discussions, resources and projects relating to Software Engineering and other tech related topics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning 
+JavaScript and Python.
+- 📫 How to reach me: 
+- 😄 Pronouns: She/Her
