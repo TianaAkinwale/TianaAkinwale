@@ -21,4 +21,4 @@ I'm open to collaborations, discussions, resources and projects relating to Soft
 -Python
 
 ## Socials and 📫 How to reach me:  
-[linkedin]: https://www.linkedin.com/in/iyanuoluwa-akinwale-1169ab1aa
+[linkedin]:(https://www.linkedin.com/in/iyanuoluwa-akinwale-1169ab1aa)
