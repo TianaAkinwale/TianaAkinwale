@@ -21,5 +21,4 @@ I'm open to collaborations, discussions, resources and projects relating to Soft
 -Python
 
 ## Socials and 📫 How to reach me:  
-[linkedin]:(https://www.linkedin.com/in/iyanuoluwa-akinwale-1169ab1aa)
-(https://img.shields.io/badge/-Iyanuoluwa-akinwale-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iyanuoluwa-akinwale-1169ab1aa) [![Instagram Badge]
+-<b>LINKEDIN</b> :https://www.linkedin.com/in/iyanuoluwa-akinwale-1169ab1aa
