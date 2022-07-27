@@ -30,3 +30,5 @@ I'm open to collaborations, discussions, resources and projects relating to Soft
 -<b>LINKEDIN</b>: https://www.linkedin.com/in/iyanuoluwa-akinwale-1169ab1aa 
 <br>
 -<b>Twitter</b>: https://twitter.com/tianaa_akinwale
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=TianaAkinwale&theme=highcontrast&show_icons=true&count_private=true)
