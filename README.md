@@ -32,3 +32,7 @@ I'm open to collaborations, discussions, resources and projects relating to Soft
 -<b>Twitter</b>: https://twitter.com/tianaa_akinwale
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=TianaAkinwale&theme=highcontrast&show_icons=true&count_private=true)
+
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=TianaAkinwale&layout=compact)
+
+
