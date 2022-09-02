@@ -33,6 +33,6 @@ I'm open to collaborations, discussions, resources and projects relating to Soft
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=TianaAkinwale&theme=highcontrast&show_icons=true&count_private=true)
 
+<p align="center" height='130px'><img src="https://github-readme-stats.vercel.app/api/wakatime?username=TianaAkinwale&layout=compact&theme=solarized-dark&hide_border=true"/> </p>
+
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=TianaAkinwale&layout=compact)
-
-
