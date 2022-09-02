@@ -31,6 +31,11 @@ I'm open to collaborations, discussions, resources and projects relating to Soft
 <br>
 -<b>Twitter</b>: https://twitter.com/tianaa_akinwale
 
+<img
+  src="https://github.com/TianaAkinwale/TianaAkinwale/blob/main/images/stat.svg"
+  alt="TianaAkinwale WakaTime Activity"
+/>
+
 ![Github stats](https://github-readme-stats.vercel.app/api?username=TianaAkinwale&theme=highcontrast&show_icons=true&count_private=true)
 
 <p align="left" height='200px'><img src="https://github-readme-stats.vercel.app/api/wakatime?username=TianaAkinwale&layout=compact&theme=solarized-dark&hide_border=true"/> </p>
