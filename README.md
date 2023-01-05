@@ -16,15 +16,10 @@ I'm open to collaborations, discussions, resources and projects relating to Soft
 ![VSCode](https://img.shields.io/badge/-VSCode-blue)
 
 ## 🏫🌱Currently learning
--JavaScript and Introduction to React.
-<br>
--C programming language.
-<br>
--Python.
+-React.
 <br>
 -Data, Structures and Algorithm.
 <br>
--HTML DOM.
 
 ## Socials and 📫 How to reach me:  
 -<b>LINKEDIN</b>: https://www.linkedin.com/in/iyanuoluwa-akinwale-1169ab1aa 
