@@ -15,15 +15,8 @@ I'm open to collaborations, discussions, resources and projects relating to Soft
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-blue)
 
-## 🏫🌱Currently learning
--React.
-<br>
--Data, Structures and Algorithm.
-<br>
 
 ## Socials and 📫 How to reach me:  
--<b>LINKEDIN</b>: https://www.linkedin.com/in/iyanuoluwa-akinwale-1169ab1aa 
-<br>
 -<b>Twitter</b>: https://twitter.com/tianaa_akinwale
 
 <img
