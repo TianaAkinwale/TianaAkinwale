@@ -1,12 +1,8 @@
-### Hi there! 👋 I'm Akinwale Iyanuoluwa
+### Hi there! 👋 I'm Tiana Akinwale
 I have a keen interest in creation of Software programs and Web development, possessing good interpersonal,
 coding and analytical skills.
 
 I'm open to collaborations, discussions, resources and projects relating to Software Engineering and other tech related topics or projects.
-
-🏫 <b> Schooling: </b> Software Engineering at ALX-Holberton.
-
-😄 <b> Pronouns: </b> She/Her 👧
 
 ## ⚒ My Skills
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -17,7 +13,7 @@ I'm open to collaborations, discussions, resources and projects relating to Soft
 
 
 ## Socials and 📫 How to reach me:  
--<b>Twitter</b>: https://twitter.com/tianaa_akinwale
+
 
 <img
   src="https://github.com/TianaAkinwale/TianaAkinwale/blob/main/images/stat.svg"
